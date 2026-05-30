@@ -1,4 +1,4 @@
-# Project-Specification-Commercial-Alfa-Sales-Intelligence-Engine-
+# Project-Specification-Commercial-Alfa-Sales-Intelligence-Engine
 
 
 ## 1. Project Architecture Framework
