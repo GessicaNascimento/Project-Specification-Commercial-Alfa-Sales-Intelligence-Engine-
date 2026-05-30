@@ -1,6 +1,5 @@
 # Project-Specification-Commercial-Alfa-Sales-Intelligence-Engine-
 
-# Project Specification — Commercial Alfa (Sales Intelligence Engine)
 
 ## 1. Project Architecture Framework
 The Commercial Alfa architecture operates as a strict multi-phase linear Data Pipeline designed to convert raw unstructured records into decision-ready business intelligence deliverables.
